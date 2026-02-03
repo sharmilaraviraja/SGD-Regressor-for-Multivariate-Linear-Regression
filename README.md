@@ -68,8 +68,8 @@ print("Predicted Number of Occupants:", round(predicted_occupants[0]))
 ```
 
 ## Output:
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="522" height="90" alt="Screenshot 2026-02-03 090529" src="https://github.com/user-attachments/assets/258cf255-28da-435a-954e-d3b4e2374908" />
+<img width="353" height="81" alt="Screenshot 2026-02-03 090453" src="https://github.com/user-attachments/assets/2cf49a24-4284-4459-8295-0c1d3ca1e50b" />
 
 
 
